@@ -1,15 +1,15 @@
 ### はじめまして、Bruno です / Prazer, sou o Bruno.
 
-- 🌱 I’m currently learning Javascript, PHP / Aprendendo Javascript, PHP
+- 🌱 I’m currently learning Javascript & Node, while PHP awaiting... / Aprendendo Javascript e Node, enquanto PHP está aguardando...
 - 🤔 I’m looking for help with CSS / Sofrendo com CSS 😅
 - 📫 How to reach me: linkedin ou instagram ou e-mail
-- 😄 Honorifics: san, sama, dono
+- 😄 Honorifics: san, sama, dono. Well, this line is just a joke.
 
  <div>
   <a href="https://github.com/Brun0-Link">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brun0-Link&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
 </div>
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
