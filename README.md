@@ -1,8 +1,8 @@
 ### はじめまして、Bruno です / Prazer, sou o Bruno.
 
-- 🌱 I’m currently learning Javascript & Node, while PHP awaiting... / Aprendendo Javascript e Node, enquanto PHP está aguardando...
-- 🤔 I’m looking for help with CSS / Sofrendo com CSS 😅
-- 📫 How to reach me: linkedin ou instagram ou e-mail
+- 🌱 I’m currently learning Javascript, Node & MongoDB  / Aprendendo Javascript, Node e MongoDB.
+- 🧐 Target: get mastery in Javascript / Objetivo: tornar-me fluente em Javascript.
+- 📫 How to reach me: linkedin ou instagram ou e-mail.
 - 😄 Honorifics: san, sama, dono. Well, this line is just a joke.
 
  <div>
