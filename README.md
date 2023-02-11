@@ -1,9 +1,9 @@
 ### はじめまして、Bruno です / Prazer, sou o Bruno.
 
-- 🌱 I’m currently learning Javascript, Node & MongoDB  / Aprendendo Javascript, Node e MongoDB.
-- 🧐 Target: get mastery in Javascript / Objetivo: tornar-me fluente em Javascript.
-- 📫 How to reach me: linkedin ou instagram ou e-mail.
-- 😄 Honorifics: san, sama, dono. Well, this line is just a joke.
+- 🌱 I’m currently learning React, Node & MongoDB  / Aprendendo React, Node e MongoDB.
+- 🧐 Target: get mastery in Javascript / Objetivo: tornar-me expert em Javascript.
+- 📫 How to reach me: linkedin ou e-mail.
+- 👑 Honorifics: King. Well, this line is just a joke 🤡.
 
  <div>
   <a href="https://github.com/Brun0-Link">
@@ -21,7 +21,6 @@
 ##
   
 <div> 
-  <a href="https://www.instagram.com/link.brun0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunoalvestrajano250@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-alves-6747a120b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
