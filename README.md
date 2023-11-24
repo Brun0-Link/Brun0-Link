@@ -1,9 +1,8 @@
 ### はじめまして、Bruno です / Prazer, sou o Bruno.
 
-- 🌱 I’m currently learning React, Node & MongoDB  / Aprendendo React, Node e MongoDB.
+- 🌱 I’m currently learning React & Node  / Aprendendo React e Node.
 - 🧐 Target: get mastery in Javascript / Objetivo: tornar-me expert em Javascript.
-- 📫 How to reach me: linkedin ou e-mail.
-- 👑 Honorifics: King. Well, this line is just a joke 🤡.
+- 📫 How to reach me / Como me encontrar: linkedin ou e-mail.
 
  <div>
   <a href="https://github.com/Brun0-Link">
