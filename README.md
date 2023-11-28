@@ -16,7 +16,7 @@
   <img align="center" alt="Bruno-NODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Bruno-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
-  <img align="right" height="180em" width="180em" alt="Gif do git" src="https://cdn.discordapp.com/attachments/564049556845887497/885136529842929714/Chocolat-gifmaker.gif">
+  <img align="right" height="180em" width="180em" alt="Gif do git" src="https://discord.com/channels/564049556845887493/564049556845887497/1179204429799489606">
 </div>
   
 ##
