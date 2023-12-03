@@ -19,9 +19,14 @@
   <img align="right" height="180em" width="180em" alt="Gif do git" src="https://cdn.discordapp.com/attachments/564049556845887497/1179204429346525294/cyberpunk-gif.gif?ex=6578eeb4&is=656679b4&hm=a95507329b283794e1e3af25e27ebc73721e49e60da42391d6b8748707c11c49&">
 </div>
   
-##
+## Contato
   
 <div> 
   <a href = "mailto:brunoalvestrajano250@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-alves-6747a120b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+ ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img align="center" src="https://profile-counter.glitch.me/Brun0-Link/count.svg" />
+ </p>
