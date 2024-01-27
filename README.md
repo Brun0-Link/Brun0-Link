@@ -1,7 +1,7 @@
 ## About me
-🖐️ Sou Bruno Trajano, desenvolvedor web | fullstack.
-🕹️ Minha paixão/força motora é por jogos, animes, ficção em geral, ciências e exercer a criatividade!
-🎯 Meu objetivo atual é a primeira oportunidade profissional. O objetivo final é o céu e o limite.
+🖐️ Sou Bruno Trajano, desenvolvedor web | fullstack.<br /> 
+🕹️ Minha paixão/força motora é por jogos, animes, ficção em geral, ciências e exercer a criatividade!<br /> 
+🎯 Meu objetivo atual é a primeira oportunidade profissional. O objetivo final é o céu e o limite.<br /> 
 🖥️ Confira meu [portfólio](https://portfolio-brun0-link.vercel.app/)!
 
 <div align="center">  
