@@ -1,4 +1,8 @@
 ## About me
+🖐️ Sou Bruno Trajano, desenvolvedor web | fullstack.
+🕹️ Minha paixão/força motora é por jogos, animes, ficção em geral, ciências e exercer a criatividade!
+🎯 Meu objetivo atual é a primeira oportunidade profissional. O objetivo final é o céu e o limite.
+🖥️ Confira meu [portfólio](https://portfolio-brun0-link.vercel.app/)!
 
 <div align="center">  
   
@@ -6,11 +10,6 @@
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0-Link&layout=compact&theme=synthwave" />
   
-</div>
-
-<div>
-  <a href="https://github.com/Brun0-Link">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brun0-Link&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 </div>
  
 <div style="display: inline_block"><br>
