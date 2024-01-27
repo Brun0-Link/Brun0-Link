@@ -1,22 +1,26 @@
-### はじめまして、Bruno です / Prazer, sou o Bruno.
+## About me
 
-- 🌱 I’m currently learning React & Node  / Aprendendo React e Node.
-- 🧐 Target: get mastery in Javascript / Objetivo: tornar-me expert em Javascript.
-- 📫 How to reach me / Como me encontrar: linkedin ou e-mail.
+<div align="center">  
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Brun0-Link&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0-Link&layout=compact&theme=synthwave" />
+  
+</div>
 
- <div>
+<div>
   <a href="https://github.com/Brun0-Link">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brun0-Link&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 </div>
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruno-NODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Bruno-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="NODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="REACTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
-  <img align="right" height="180em" width="180em" alt="Gif do git" src="https://cdn.discordapp.com/attachments/564049556845887497/1179204429346525294/cyberpunk-gif.gif?ex=6578eeb4&is=656679b4&hm=a95507329b283794e1e3af25e27ebc73721e49e60da42391d6b8748707c11c49&">
+  <img align="right" height="180em" width="180em" src="https://cdn.discordapp.com/attachments/564049556845887497/1179204429346525294/cyberpunk-gif.gif?ex=6578eeb4&is=656679b4&hm=a95507329b283794e1e3af25e27ebc73721e49e60da42391d6b8748707c11c49&">
 </div>
   
 ## Contato
